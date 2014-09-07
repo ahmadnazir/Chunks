@@ -1,0 +1,16 @@
+{
+    "name": "mandark/crypt",
+    "description": "Crypt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Nazir Raja",
+            "email": "ahmadnazir@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+	"classmap": [ "src/RC4.php" ]
+    }
+}
